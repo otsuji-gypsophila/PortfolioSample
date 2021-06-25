@@ -5,7 +5,7 @@ Name
 プロジェクトの概要説明
 
 ## デモ
-デモのURLや、スクリーンショットを記載する。
+[Webサイトを見る] (https://techis-make-portfolio-sample.herokuapp.com/ )
 
 ## 利用している技術
 使った言語やツールなどのバージョンを記載する。
